@@ -1,0 +1,25 @@
+public class Solution {
+    public IList<string> FizzBuzz(int n) {
+        n=15; 
+        for (int i = 1 ; i <n; i++){
+            Console.WriteLine(i);
+        
+    
+
+        int five =5
+        int three = 3
+        int whole = int
+         if (i/three = whole )
+    { 
+             then console.writeline("Fizz");
+    }
+        else if (i/five = whole) {
+            then console.writeline("Buzz");
+            }
+        else if (i/five & i/three = whole )
+        { then Console.WriteLine("FizzBuzz");}
+         else 
+         {Console.Writeline(i.tostring);}
+        }
+    }
+}
